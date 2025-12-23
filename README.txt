@@ -34,7 +34,7 @@ Concepts Used
 How to Run (Using VS Code)
 1. Open the project folder in Visual Studio Code.
 2. Open `Main.java`.
-3. Click the **Run** or **Debug** button in the editor.
+3. Click the Run button in the editor.
 4. Follow the on-screen instructions in the terminal to play the game.
 
 Sample Gameplay
